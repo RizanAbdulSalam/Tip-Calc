@@ -1,4 +1,3 @@
-
 let billTotalInp = document.getElementById('billTotalInput')
 let tipInp = document.getElementById('tipInput')
 let noPeople = document.getElementById('numberOfPeople')
